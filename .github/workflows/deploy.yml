@@ -23,4 +23,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: stevendevops132/mini-app:latest
+          tags: stevendevops132/mi-nuevo-proyecto:latest
+
